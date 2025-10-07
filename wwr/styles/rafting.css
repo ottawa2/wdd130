@@ -3,7 +3,7 @@
     --secondary-color: #f4a261;
     --acent-color: #264653;
     --acent-color: #e9c46a;
-    --heading-font: "Times News Roman", "Georgia", serif;
+    --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
 
@@ -12,7 +12,7 @@ header{
     color: var(--accent2-color);
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
