@@ -47,8 +47,8 @@ nav, p, section, article {
 }
 
 .hero img {
-    display: block;
-    width: 100px;
+    display: inline-flex;
+    width: 400px;
     height: auto;
 }
 
